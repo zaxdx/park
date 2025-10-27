@@ -1,11 +1,11 @@
 
-# 🚀 Park
+# Park
 
 > Sistema monitor para estacionamentos - feito com C++23 e Node-Red
 
 ---
 
-## 🧠 Desenvolvido por:
+## Desenvolvido por:
 
 Professor:
 - Lucas Feksa
@@ -16,7 +16,7 @@ Alunos:
 - RAFAEL D. PEREIRA
 - YOUSAF A.
 
-## 🧠 Resumo
+## Resumo
 
 **Park** é um sistema para monitorar vagas de estacionamentos de formatos variados,
 usando processamento de imagens para detectar as vagas e monitorar a ocupação.
@@ -25,16 +25,16 @@ mostrando o layout do estacionamento e situação das vagas via wireless com Nod
 
 ---
 
-## ✨ Características de Desenvolvimento
+## Características de Desenvolvimento
 
-- ⚡ **C++23** — moderno, desenvolvido para performance.
-- 🔍 **Node-Red** - front end dinâmico e de rápida customização.
-- 🧩 **Desenho Modular** — Back-end e Front-end desacoplados.
-- 🧵 **Thread-safe** - usando asio para controle remoto via rede.
+- **C++23** — moderno, desenvolvido para performance.
+- **Node-Red** - front end dinâmico e de rápida customização.
+- **Desenho Modular** — Back-end e Front-end desacoplados.
+- **Thread-safe** - usando asio para controle remoto via rede.
 
 ---
 
-## 🔧 Compilação
+## Compilação
 
 Bibliotecas nescessárias:
 ```bash
